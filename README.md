@@ -15,7 +15,7 @@ The Covid Data Exploration file is a series of queries exploring global Covid-19
 *Our World in Data*
 https://ourworldindata.org/covid-deaths
 
-*tables used:*
+**tables used:**
 Available on main brach of the repository
 - CovidDeaths
 - CovidVaccinations
