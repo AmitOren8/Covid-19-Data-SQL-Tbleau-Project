@@ -1,6 +1,6 @@
 # SQL-Project
 
-The Covid Data Exploration file is seires of queries exploring global Covid-19 data.
+The Covid Data Exploration file is a series of queries exploring global Covid-19 data.
 
 **The project presents use of:**
 - aggregate functions
